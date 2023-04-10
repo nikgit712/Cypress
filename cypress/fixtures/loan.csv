@@ -1,0 +1,31 @@
+interestRate,rateType,repaymentTermInYears,repaymentPlan
+11.05%,Fixed,5,Deferred
+11.05%,Fixed,7,Deferred
+11.35%,Fixed,10,Deferred
+11.60%,Fixed,12,Deferred
+11.65%,Fixed,15,Deferred
+10.80%,Fixed,5,Minimum
+10.80%,Fixed,7,Minimum
+11.10%,Fixed,10,Minimum
+11.35%,Fixed,12,Minimum
+11.40%,Fixed,15,Minimum
+10.55%,Fixed,5,Interest Only
+10.55%,Fixed,7,Interest Only
+10.85%,Fixed,10,Interest Only
+11.10%,Fixed,12,Interest Only
+11.15%,Fixed,15,Interest Only
+10.88%,Variable,5,Deferred
+10.88%,Variable,7,Deferred
+11.13%,Variable,10,Deferred
+11.38%,Variable,12,Deferred
+11.38%,Variable,15,Deferred
+10.63%,Variable,5,Minimum
+10.63%,Variable,7,Minimum
+10.88%,Variable,10,Minimum
+11.13%,Variable,12,Minimum
+11.13%,Variable,15,Minimum
+10.38%,Variable,5,Interest Only
+10.38%,Variable,7,Interest Only
+10.63%,Variable,10,Interest Only
+10.88%,Variable,12,Interest Only
+10.88%,Variable,15,Interest Only
